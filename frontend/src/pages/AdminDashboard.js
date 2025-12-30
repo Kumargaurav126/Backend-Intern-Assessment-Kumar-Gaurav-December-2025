@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import API from '../api';
 import { toast } from 'react-toastify';
+import './Admin.css';
 
 const AdminDashboard = () => {
   const [users, setUsers] = useState([]);
