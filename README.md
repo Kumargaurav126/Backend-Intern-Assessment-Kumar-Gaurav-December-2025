@@ -1,4 +1,4 @@
-# Nexus User Management System
+# User Management System
 
 ## Project Overview
 This is a comprehensive full-stack User Management System designed to handle Authentication, Role-Based Access Control (RBAC), and Profile Management.
@@ -86,3 +86,4 @@ To run the backend unit tests:
 `cd backend`
 
 `npm test`
+
